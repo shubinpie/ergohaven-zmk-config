@@ -273,7 +273,7 @@
         mt_S: mt_S {
             hml;
             bindings = <&kp>, <&ak_S>;
-            hold-trigger-key-positions = <KEYS_R THUMBS>; // left hand allowed
+            hold-trigger-key-positions = <0 1 2 3 4 10 11 12 13 14 20 21 22 23 24 30 31 32>; // right hand allowed
         };
         mt_C: mt_C {  
             hml;
