@@ -4,7 +4,7 @@ include:
     keymap: op36
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: op36_left_ruen-ergohaven-zmk
+    artifact-name: op36_left-ergohaven-zmk
 
   - board: ergohaven
     shield: op36_right
