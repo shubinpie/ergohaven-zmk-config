@@ -271,7 +271,7 @@
         };
 
 
-        mt_S: mt_S {
+        mt_S: mod_tap_ak_S {
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
             flavor = "hold-preferred";
