@@ -567,7 +567,7 @@ COMBO_LAYER(jp_t_ryo,   &t_ryo,     LH1 RB2, l_jp)  // ryo
         en {
             bindings = <
   &ak_X        &ak_W        &ak_M         &ak_G          &ak_J                          &HashDllr    &DotColn        &SlshStar      &DqtLT        &SqtGT
-  &hml LGUI &ak_S &mt_C LALT C &mt_N LSHFT N &mt_T LCTRL T  &ak_K                          &CommaMagic  &mt_A RCTRL A   &mt_E RSHFT E  &mt_I LALT I  &mt_H RGUI H
+  &mt_S LGUI S &mt_C LALT C &mt_N LSHFT N &mt_T LCTRL T  &ak_K                          &CommaMagic  &mt_A RCTRL A   &mt_E RSHFT E  &mt_I LALT I  &mt_H RGUI H
   &ak_F        &ak_P        &ak_L         &ak_D          &ak_V                          &MinusPlus   &ak_U           &ak_O          &ak_Y         &ak_B
                                           &kp BACKSPACE  &kp R  &kp SPACE    &kp TAB  &kp SPACE  &kp RETURN
             >;
