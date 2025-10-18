@@ -276,7 +276,7 @@
             #binding-cells = <2>;
             flavor = "hold-preferred";
             tapping-term-ms = <200>;
-            bindings = <&kp>, <&ak_S>;
+            bindings = <&kp>, <&kp S>;
         };
         mt_C: mt_C {  
             hml;
