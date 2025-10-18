@@ -277,7 +277,6 @@
             flavor = "hold-preferred";
             tapping-term-ms = <200>;
             bindings = <&kp>, <&ak_S>;
-            hold-trigger-key-positions = <5 6 7 8 9 15 16 17 18 19 25 26 27 28 29 33 34 35>; // right hand allowed
         };
         mt_C: mt_C {  
             hml;
